@@ -1,5 +1,5 @@
 # Test-Automation-and-Quality-Assurance
-Demonstrates my ability to run tests on my code to ensure the highest quality software.
+Demonstrates my ability to run tests on my code to ensure the highest quality software. This code is from a Maven project using JUnit 5.
 
 ## How can I ensure that my code, program, or software is functional and secure?
 I will ensure that all my future code, programs, and pieces of software are functional by thoroughly testing each functionality. I will do this by getting a thorough understanding of customer requirements and attempting to break the code with the help of equivalence partitioning and boundary values. To make sure the work is secure, I will maintain a security mindset throughout all my projects. Additionally, I will implement strict limits for data input and stay up to date with cyber security news.
